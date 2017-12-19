@@ -43,7 +43,7 @@ ARG graphite_version=${version}
 
 ARG whisper_repo=https://github.com/graphite-project/whisper.git
 ARG carbon_repo=https://github.com/graphite-project/carbon.git
-ARG graphite_repo=https://github.com/graphite-project/graphite-web.git
+ARG graphite_repo=https://github.com/codexiao/graphite-web.git
 
 ARG statsd_version=v0.8.0
 
